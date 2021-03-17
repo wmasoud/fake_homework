@@ -1,0 +1,18 @@
+h1{font-size: large;
+    background-color: aqua;
+    font-family: Arial SansSerif Calibri;
+    color: blue;
+}
+h2{font-size: revert;
+    background-color: orange;
+    color: blue;
+    font-family: "Arial Black";
+
+}
+p{background-color: aquamarine;
+    font-family: "Arial Nova Light";
+    font-size: medium;
+    color: palevioletred;
+    margin: 50px;
+
+}
